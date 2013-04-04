@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>diff.png</file>
+        <file>integral.png</file>
+    </qresource>
+</RCC>
